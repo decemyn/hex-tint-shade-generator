@@ -8,4 +8,4 @@ Simple color generator app based on HEX color codes.
 
     git clone https://github.com/decemyn/color-generator.git
     cd color-generator
-    npm start
+    npm install && npm start
